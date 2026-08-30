@@ -4,7 +4,7 @@ import Reveal from "@/components/Reveal";
 import EmailSignupForm from "@/components/EmailSignupForm";
 
 const stats = [
-  { num: "台南玉井", label: "自家果園產地" },
+  { num: "台南玉井促銷大放送", label: "自家果園產地" },
   { num: "18°+", label: "甜度分級標準" },
   { num: "24hr", label: "採收即出貨" },
   { num: "$1500+", label: "免運門檻" },
